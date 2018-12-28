@@ -1,5 +1,5 @@
 {
-  "name": "vresh/twilio-bundle",
+  "name": "samarqusai/twilio-bundle",
   "type": "symfony-bundle",
   "description": "A simple Symfony 2, 3 bundle for the official sdk provided by Twilio.",
   "keywords": [
